@@ -75,5 +75,6 @@ The `test_firmware.py` script runs on a host PC and connects to the Pico's seria
     pytest -v
     ```
 6.  Pytest will automatically discover the tests, connect to the Pico, and report the PASS/FAIL status for each test case.
+7.  ![Photo](./images/test.jpg)
 
 
